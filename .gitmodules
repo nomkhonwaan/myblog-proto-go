@@ -1,0 +1,3 @@
+[submodule "myblog-proto"]
+	path = myblog-proto
+	url = https://github.com/nomkhonwaan/myblog-proto
